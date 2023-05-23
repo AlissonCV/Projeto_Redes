@@ -8,3 +8,4 @@ Repositório criado para upload do código de acionamento de dois pistões com o
 
 '''diff
 Obs.: Os demais arquivos contém dados não atualizados. Código está incorreto.
+'''
