@@ -6,4 +6,5 @@ Repositório criado para upload do código de acionamento de dois pistões com o
 - Arduino 4 (Escravo): Código de leitura da posição do pistão B (Sensor 2s0 e 2s1) e envio via I2C (Mestre 5/Escravo 4) do status 'posição do pistão B';
 - Arduino 5 (Mestre): Código de leitura recebimento via I2C (Mestre 5/Escravo 4) do status 'posição do pistão B' e 'botão acionado', e recebimento via Xbee do acionamento do rele da valvula solenoide do pistão B (Arduino 5);
 
-<span style="color:red;">Obs.: Os demais arquivos contém dados não atualizados. Código está incorreto.</span>
+## Obs.: Os demais arquivos contém dados não atualizados. Código está incorreto.
+## Acesse o [link](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=2) da simulação do acionamento.
